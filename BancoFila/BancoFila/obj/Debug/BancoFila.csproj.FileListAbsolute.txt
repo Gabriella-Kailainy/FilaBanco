@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\BancoFila\BancoFila\bin\Debug\BancoFila.exe.config
+C:\Users\Tecnico\source\repos\BancoFila\BancoFila\bin\Debug\BancoFila.exe
+C:\Users\Tecnico\source\repos\BancoFila\BancoFila\bin\Debug\BancoFila.pdb
+C:\Users\Tecnico\source\repos\BancoFila\BancoFila\obj\Debug\BancoFila.csproj.AssemblyReference.cache
+C:\Users\Tecnico\source\repos\BancoFila\BancoFila\obj\Debug\BancoFila.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\BancoFila\BancoFila\obj\Debug\BancoFila.exe
+C:\Users\Tecnico\source\repos\BancoFila\BancoFila\obj\Debug\BancoFila.pdb

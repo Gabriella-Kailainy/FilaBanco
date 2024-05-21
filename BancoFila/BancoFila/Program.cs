@@ -10,39 +10,48 @@ namespace BancoFila
     {
         static void Main(string[] args)
         {
-            string[] Nome = new string[10];
-            int[] Idade = new int[10];
-            string[] Prioritário = new string[10];
+            string opcao = "opcao";
+            Cliente cliente = new Cliente();
 
-            for (int i = 0; i < 10; i++)
+            while (opcao.ToLower() != "q")
             {
                 Console.WriteLine("1- Cadastrar o cliente.\n" +
-                    "2- Inserir o cliente na lista.\n" +
-                    "3- Listar a fila de clientes atuais.\n" +
-                    "4- Incluir clientes prioritários.\n" +
-                    "5- Digite q para sair do programa.");
-                Console.ReadLine();
+                    "2- Listar a fila de clientes atuais.\n" +
+                    "3- Incluir clientes prioritários.\n" +
+                    "4- Atender Clientes.\n" +
+                    "\nDigite q para sair do programa.");
+                opcao = Console.ReadLine();
 
-                Console.WriteLine("Digite o seu nome:");
-                Console.ReadLine();
-                Console.WriteLine("Digite a sua idade:");
-                int.Parse(Console.ReadLine());
-                Console.WriteLine("Você é um cliente prioritário? Sim/Não");
-                Console.ReadLine();
-
-                for (int p = 0; p < Nome.Length; p++)
+                switch (opcao)
                 {
-                    Console.WriteLine("Nome: ");
-                    Nome[p] = Console.ReadLine();
+                    case "1":
+                        cliente.CadastrarCliente();
+                        break;
 
-                    Console.WriteLine("Idade: ");
-                    Idade[p] = Convert.ToInt16(Console.ReadLine());
+                    case "2":
+                        cliente.ListarFila();
+                        break;
 
+                    case "3":
+                        cliente.IncluirClientePrioritario();
+                        break;
 
-                    Console.ReadKey();
+                    case "4":
+                        cliente.AtenderCliente();
+                        break;
+
+                    case "q":
+                        return;
+
+                    default:
+                        Console.WriteLine("Opção inválida. Tente novamente.");
+                        break;
                 }
             }
+
         }
+
     }
- }
+
+}
 

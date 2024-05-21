@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tecnico\\source\\repos\\BancoFila\\",
+  "WorkspaceRootPath": "C:\\Users\\ynkso\\Desktop\\FilaBanco\\BancoFila\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71F685BB-6A20-4571-8F96-3513C532BA29}|BancoFila\\BancoFila.csproj|c:\\users\\tecnico\\source\\repos\\bancofila\\bancofila\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F685BB-6A20-4571-8F96-3513C532BA29}|BancoFila\\BancoFila.csproj|C:\\Users\\ynkso\\Desktop\\FilaBanco\\BancoFila\\bancofila\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F685BB-6A20-4571-8F96-3513C532BA29}|BancoFila\\BancoFila.csproj|solutionrelative:bancofila\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F685BB-6A20-4571-8F96-3513C532BA29}|BancoFila\\BancoFila.csproj|c:\\users\\tecnico\\source\\repos\\bancofila\\bancofila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71F685BB-6A20-4571-8F96-3513C532BA29}|BancoFila\\BancoFila.csproj|c:\\users\\ynkso\\desktop\\filabanco\\bancofila\\bancofila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F685BB-6A20-4571-8F96-3513C532BA29}|BancoFila\\BancoFila.csproj|solutionrelative:bancofila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\BancoFila\\BancoFila\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ynkso\\Desktop\\FilaBanco\\BancoFila\\BancoFila\\Cliente.cs",
               "RelativeDocumentMoniker": "BancoFila\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\BancoFila\\BancoFila\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ynkso\\Desktop\\FilaBanco\\BancoFila\\BancoFila\\Cliente.cs",
               "RelativeToolTip": "BancoFila\\Cliente.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAH4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T19:46:27.824Z",
               "EditorCaption": ""
@@ -37,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\BancoFila\\BancoFila\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ynkso\\Desktop\\FilaBanco\\BancoFila\\BancoFila\\Program.cs",
               "RelativeDocumentMoniker": "BancoFila\\Program.cs",
-              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\BancoFila\\BancoFila\\Program.cs",
+              "ToolTip": "C:\\Users\\ynkso\\Desktop\\FilaBanco\\BancoFila\\BancoFila\\Program.cs",
               "RelativeToolTip": "BancoFila\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAATAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T19:41:06.924Z",
               "EditorCaption": ""

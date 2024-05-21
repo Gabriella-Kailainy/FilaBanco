@@ -5,3 +5,10 @@ C:\Users\Tecnico\source\repos\BancoFila\BancoFila\obj\Debug\BancoFila.csproj.Ass
 C:\Users\Tecnico\source\repos\BancoFila\BancoFila\obj\Debug\BancoFila.csproj.CoreCompileInputs.cache
 C:\Users\Tecnico\source\repos\BancoFila\BancoFila\obj\Debug\BancoFila.exe
 C:\Users\Tecnico\source\repos\BancoFila\BancoFila\obj\Debug\BancoFila.pdb
+C:\Users\ynkso\Desktop\FilaBanco\BancoFila\BancoFila\bin\Debug\BancoFila.exe.config
+C:\Users\ynkso\Desktop\FilaBanco\BancoFila\BancoFila\bin\Debug\BancoFila.exe
+C:\Users\ynkso\Desktop\FilaBanco\BancoFila\BancoFila\bin\Debug\BancoFila.pdb
+C:\Users\ynkso\Desktop\FilaBanco\BancoFila\BancoFila\obj\Debug\BancoFila.csproj.AssemblyReference.cache
+C:\Users\ynkso\Desktop\FilaBanco\BancoFila\BancoFila\obj\Debug\BancoFila.csproj.CoreCompileInputs.cache
+C:\Users\ynkso\Desktop\FilaBanco\BancoFila\BancoFila\obj\Debug\BancoFila.exe
+C:\Users\ynkso\Desktop\FilaBanco\BancoFila\BancoFila\obj\Debug\BancoFila.pdb
